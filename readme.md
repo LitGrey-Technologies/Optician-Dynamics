@@ -1,7 +1,7 @@
 
 # Optician Dynamics 
 
-Here are the prerequisites for the optician dynamics backend.
+Prerequisites for the optician dynamics backend.
 
 - [ ] JDK 11       [Download](https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html#license-lightbox)
 - [ ] tomcat 9   [Download](https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.65/bin/apache-tomcat-9.0.65-windows-x64.zip)
