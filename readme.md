@@ -1,9 +1,67 @@
 
-# Optician Dynamics 
+# Optician Dynamics
 
-Prerequisites for the optician dynamics backend.
+Let Optician Dynamics, the world's leading complete software for optician business, manage your business. It is designed with the purpose of taking control of your business and making it much easier to manage. It will relieve you of all those headaches like account management, building stock, sales & purchase. With a professional and user-friendly interface, it becomes much easier to maintain your business well. You will have more time and energy to do what you love the most - sell glasses and help people see!
 
-- [ ] JDK 11       [Download](https://www.techspot.com/downloads/downloadnow/5553/?evp=f202c8d76e446be237e559da10298d10&file=6310)
-- [ ] tomcat 9   [Download](https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.65/bin/apache-tomcat-9.0.65.exe)
-- [ ] MySQL 5.7 [Download](https://dev.mysql.com/downloads/mysql/)
-- [ ] SQLYOG    [Download](https://s-f-t.online//api/downloader/?pid=1&cid=81ea8158-96d6-11e6-a5d9-00163ec9f5fa-windows-en&lastchanged=1635984000000&fallbackUrl=https%253A%252F%252Fgsf-fl.softonic.com%252Fce1%252F423%252F5c0af4d7e20dabc65fc324fbe1a30a3ac2%252FSQLyog-13.1.8-0.x64Trial.exe%253FExpires%253D1659308343%2526Signature%253D791655aec26fd1140c95ea87df080951eda2f02c%2526url%253Dhttps%253A%252F%252Fsqlyog.en.softonic.com%2526Filename%253DSQLyog-13.1.8-0.x64Trial.exe&utm_source=undefined&utm_medium=undefined&utm_campaign=undefined&signature=aca8f2eda7298ebbd58388dfb7c7c5ccf0e94352a8e19032268f0feb5477c6e6)
+## Features
+
+- Multi branches
+- Multi users with specific role and permission
+- Customer Records with prescription and order history
+- Supplier Records with purchase history
+- Payables
+- Receivables
+- Accounting with Ledgers and Trial Balance Sheet
+- Live Stock management
+- In hand Cash report
+- End of Day report 
+- Barcode generation and Printing
+- Supplier Profile with payable balance
+- Customer Profile with receivables balance
+- Customer and Supplier Directories
+
+
+
+## Demo
+
+Demo link will be avaiable soon! we are working to deploy it on cloud mean while we can deploy on your computer for 30 days trial contact us at exc@litgreytechnologies.com OR whatsapp us at +92 334 8238084
+
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+## FAQ
+
+#### How can i access or login the Optician Dynamics?
+
+You need to setup Optician Dynamics in your computer
+
+#### How can have Optician Dynamics in cloud?
+
+Yes, you can have it in cloud. We will setup in your cloud infrastrucutre or you can use our cloud services.
+
+#### How safe are our data is with Optician Dynamics?
+
+Your data is 100% safe in cloud Optician Dynamics. However, If you are using the offline version, then you have to take care of backups and safety of your data.
+
+#### Can i have Optician Dynamics offline?
+
+Yes, you can have Optician Dynamics offline. But you need to toke care of your data backups and safety
+
+#### How much data Optician Dynamics can hold?
+
+We are providing unlimited space in our online cloud-base version. For offline version data storage limit is depending on the free space you have on your hard drive
+
+#### Can i get Optician Dynamics training?
+
+Yes, We can schedule training sessions online which are free but if you need onsite training then you have additional cost.
+
+#### How many branches/outlets Optician Dynamics can handle?
+
+You can have unlimited branches/outlets in Optician Dynamics. However opening more then 1 branch have additional cost.
+## Authors
+
+- [@LitGrey Technologies](https://www.github.com/LitGrey-Technologies)
+
