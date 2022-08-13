@@ -1,4 +1,6 @@
 
+![Logo](https://github.com/LitGrey-Technologies/Optician-Dynamics/blob/main/od_logo.png)
+
 # Optician Dynamics
 
 Let Optician Dynamics, the world's leading complete software for optician business, manage your business. It is designed with the purpose of taking control of your business and making it much easier to manage. It will relieve you of all those headaches like account management, building stock, sales & purchase. With a professional and user-friendly interface, it becomes much easier to maintain your business well. You will have more time and energy to do what you love the most - sell glasses and help people see!
@@ -29,8 +31,7 @@ Demo link will be avaiable soon! we are working to deploy it on cloud mean while
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![App Screenshot](https://github.com/LitGrey-Technologies/Optician-Dynamics/blob/main/Dashboard%20(2).png)
 
 ## FAQ
 
