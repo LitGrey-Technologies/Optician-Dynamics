@@ -15,7 +15,7 @@ Let Optician Dynamics, the world's leading complete software for optician busine
 - Receivables
 - Accounting with Ledgers and Trial Balance Sheet
 - Live Stock management
-- In hand Cash report
+- Cash In Hand report
 - End of Day report 
 - Barcode generation and Printing
 - Supplier Profile with payable balance
