@@ -31,7 +31,7 @@ Demo link will be avaiable soon! we are working to deploy it on cloud mean while
 
 ## Screenshots
 
-![App Screenshot](https://github.com/LitGrey-Technologies/Optician-Dynamics/blob/main/Dashboard%20(2).png)
+![App Screenshot](https://github.com/LitGrey-Technologies/Optician-Dynamics/blob/main/opdynmaics-dashboard.PNG)
 
 ## FAQ
 
