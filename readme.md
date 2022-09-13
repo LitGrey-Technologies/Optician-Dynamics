@@ -1,8 +1,4 @@
-<p align="center">
-<img src="https://github.com/LitGrey-Technologies/Optician-Dynamics/blob/main/od_logo.png" data-canonical-src="https://github.com/LitGrey-Technologies/Optician-Dynamics/blob/main/od_logo.png" width="500" height="200" align="center"/>
-</p>
-
-# Optician Dynamics
+# Optician Dynamics <img src="https://github.com/LitGrey-Technologies/Optician-Dynamics/blob/main/od_logo.png" data-canonical-src="https://github.com/LitGrey-Technologies/Optician-Dynamics/blob/main/od_logo.png" width="70" height="40" align="center"/>
 
 Let Optician Dynamics, the world's leading complete software for optician business, manage your business. It is designed with the purpose of taking control of your business and making it much easier to manage. It will relieve you of all those headaches like account management, building stock, sales & purchase. With a professional and user-friendly interface, it becomes much easier to maintain your business well. You will have more time and energy to do what you love the most - sell glasses and help people see!
 
