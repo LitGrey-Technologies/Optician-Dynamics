@@ -1,5 +1,14 @@
 # Optician Dynamics <img src="https://github.com/LitGrey-Technologies/Optician-Dynamics/blob/main/od_logo.png" data-canonical-src="https://github.com/LitGrey-Technologies/Optician-Dynamics/blob/main/od_logo.png" width="70" height="40" align="center"/>
 
+<!-- Begin SF Tag -->
+<div class="sf-root" data-id="3664436" data-badge="light-default" data-variant-id="sf" style="width:125px">
+    <a href="https://sourceforge.net/software/product/Optician-Dynamics/" target="_blank">Optician Dynamics Reviews</a>
+</div>
+<script>(function () {var sc=document.createElement('script');sc.async=true;sc.src='https://b.sf-syn.com/badge_js?sf_id=3664436&variant_id=sf';var p=document.getElementsByTagName('script')[0];p.parentNode.insertBefore(sc, p);})();
+</script>
+<!-- End SF Tag -->
+
+
 Optician Dynamics, the world's leading software provide optical inventory management software and solutions to maximize cash flow while delivering high-level service to your customers. It is designed with the purpose of taking control of your business and making it much easier to manage. With a professional and user-friendly interface, it becomes much easier to maintain your business well. You will have more time and energy to do what you love the most - sell glasses and help people see!
 
 ## Screenshots
