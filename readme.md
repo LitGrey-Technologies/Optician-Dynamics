@@ -57,7 +57,7 @@ We are providing unlimited space in our online cloud-base version. For offline v
 
 #### Can i get Optician Dynamics training?
 
-Yes, We can schedule training sessions online which are free but if you need onsite training then you have additional cost.
+Yes but only in Pakistan, We can schedule training sessions online which are free but if you need onsite training then you have additional cost.
 
 #### How many branches/outlets Optician Dynamics can handle?
 
